@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "username": "Satyam jha",
+      "email": "satyam@gmail.com",
+      "password": "12345",
+      "status": true,
+      "id": 2
+    },
+    {
+      "username": "Satyam Kumar",
+      "email": "jhasatyam0118@gmail.com",
+      "password": "12345",
+      "status": true,
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Satyam Jha",
+      "image": "https://avatars.githubusercontent.com/u/107462251?v=4",
+      "specialization": "Dermatologist",
+      "experience": "5",
+      "location": "Goa",
+      "date": "2023-05-26",
+      "slots": "5",
+      "fee": "1000",
+      "id": 1
+    },
+    {
+      "name": "UTSAV KUMAR",
+      "image": "https://avatars.githubusercontent.com/u/107462251?v=4",
+      "specialization": "Pediatrician",
+      "experience": "5",
+      "location": "Ranchi",
+      "date": "2023-05-26",
+      "slots": "10",
+      "fee": "200",
+      "id": 2
+    }
+  ]
+}
