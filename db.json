@@ -1,8 +1,36 @@
 {
   "users": [
-    
+    {
+      "username": "Satyamjha24",
+      "email": "satyam@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/107462251?v=4",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "username": "ajay",
+      "email": "ajay@gmail.com",
+      "avatar": "https://avatars.githubusercontent.com/u/107462251?v=4",
+      "password": "1234",
+      "id": 2
+    }
   ],
   "forum": [
-    
+    {
+      "username": "Satyamjha24",
+      "questionTitle": "Array",
+      "questionDescription": "How to filter any array",
+      "language": "Java",
+      "postedDate": "2023-06-04",
+      "id": 1
+    },
+    {
+      "username": "ajay",
+      "questionTitle": "Higher order function ",
+      "questionDescription": "What is Higher order function in js",
+      "language": "",
+      "postedDate": "2023-06-04",
+      "id": 2
+    }
   ]
 }
